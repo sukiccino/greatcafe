@@ -9,7 +9,7 @@ html * {
 }
 body {
   margin: 0 0 0 0;
-  background-color: #eeece9;
+  background-color: #b7c2965e;
 }
 .wrapper {
   margin: 0 auto 0 auto;
@@ -51,6 +51,9 @@ a:active {
   margin: 50px 0 40px 0;
   line-height: 0;
   text-align: center;
+}
+.logo img {
+  width: 230px;
 }
 .nav li {
   display: inline;
